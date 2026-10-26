@@ -25,3 +25,6 @@ calculates the layout, paints the elements, and
 displays the webpage on the screen. This
 entire process happens very quickly, allowing
 us to access websites within seconds.
+
+
+
